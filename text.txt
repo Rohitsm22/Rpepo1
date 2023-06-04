@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FA56-376C
+
+ Directory of C:\Users\Rohit's PC\Desktop\Project
+
+04-06-2023  11:17    <DIR>          .
+04-06-2023  11:17    <DIR>          ..
+04-06-2023  11:17                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  176,632,037,376 bytes free
